@@ -1,0 +1,16 @@
+{
+  "name": "lecture15-rest-express",
+  "version": "1.0.0",
+  "description": "CSE 264 Lecture 15 in-class activity: Music Library API with Express",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
